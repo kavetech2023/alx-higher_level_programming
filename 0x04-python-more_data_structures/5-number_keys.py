@@ -1,5 +1,15 @@
 #!/usr/bin/python3
-my_dict = {"name": "kevin", "age":34}
-num_key = num_keys(my_dict)
+def number_keys(a_dictionary):
+  """Returns the number of keys in a dictionary.
 
-print(num_key)
+  Args:
+    a_dictionary: A dictionary.
+
+  Returns:
+    The number of keys in the dictionary.
+  """
+
+  count = 0
+  for key in a_dictionary:
+    count += 1
+  return count
