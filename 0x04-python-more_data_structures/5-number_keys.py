@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-def num_keys(dict1):
-  return len(dict1)
+my_dict = {"name": "kevin", "age":34}
+num_key = num_keys(my_dict)
+
+print(num_key)
