@@ -1,6 +1,7 @@
 This Repository About higher-level languages such as python.
 _______________________________________________________________________________________
-<h2>Python is an interpreted language</h2>,
+<h2>Python is an interpreted language</h2>
+
 It isn't necessary to be compiled to run. 
 
 <h2>Untyped Variables</h2>
