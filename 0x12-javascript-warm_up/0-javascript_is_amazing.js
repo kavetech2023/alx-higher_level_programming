@@ -1,2 +1,3 @@
+#!/usr/bin/node
 const myVar = "JavaScript is amazing";
-consloe.log(myVar);
+console.log(myVar);
