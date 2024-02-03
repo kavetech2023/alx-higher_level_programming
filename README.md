@@ -12,3 +12,10 @@ Memory management is automatically handled in Python by the Garbage Collector pr
 
 <h2>Object Oriented</h2>
 Python is an object-oriented programming language.
+
+
+<h2>Additional Information:</h2>
+
+* __Author:__ Kevin Kavete
+* __License:__
+* __Dependencies:__
